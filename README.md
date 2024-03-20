@@ -29,6 +29,7 @@ End the program.
 Developed By: NAVIN KUMAR J
 
 Register Number: 212222240071
+
 i)Image Translation
 ```
 import numpy as np
